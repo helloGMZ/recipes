@@ -3,4 +3,5 @@
 * avocado
 * lemon
 * salt
+* sugar
 ## Instructions
